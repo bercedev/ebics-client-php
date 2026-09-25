@@ -22,14 +22,14 @@ Ideal for fintechs, ERPs, payment processors, and enterprises needing a robust E
 
 ### Premium Features
 
-- **🏦 Multiple Bank connections** — Certificates, activation, keyring in a few clicks. [Bank connections →](https://sites.google.com/view/ebics-api-client/bank-connections?authuser=0)  
-- **💸 Bank operations via simple form** — Statements and payments without EBICS protocol plumbing. [Bank operations →](https://sites.google.com/view/ebics-api-client/bank-operations?authuser=0)  
-- **📝 Payment builder** — Create multi-order SEPA files in minutes, store and reuse them, send straight to the bank. [Bank operations →](https://sites.google.com/view/ebics-api-client/bank-operations?authuser=0)  
-- **⏰ Automation that runs while you sleep** — Scheduled jobs, webhooks, no missed statements. [Scheduler jobs →](https://sites.google.com/view/ebics-api-client/scheduler-jobs?authuser=0)  
-- **🚀 Live in minutes** — Docker deployment or Installation scrip, no PHP expertise needed.  
-- **🧪 Test without a real bank** — Dummy EBICS server for local development.  
-- **🤖 AI agents, connected** — MCP server for Claude, Cursor, and more.  
-- **🛡 Priority support** — Direct line to the dev team.  
+- **Multiple Bank connections** — Certificates, activation, keyring in a few clicks. [Bank connections →](https://sites.google.com/view/ebics-api-client/bank-connections)  
+- **Bank operations** — Statements and payments without EBICS protocol plumbing. [Bank operations →](https://sites.google.com/view/ebics-api-client/bank-operations)  
+- **Payment builder** — Create multi-order SEPA files in minutes, store and reuse them, send straight to the bank. [Bank operations →](https://sites.google.com/view/ebics-api-client/bank-operations)  
+- **Spreadsheet to Bank** — Setup regular upload job for Excel document. [Spreadsheet to Bank →](https://sites.google.com/view/ebics-api-client/spreadsheet-to-bank)  
+- **Order Tracker** — Track settlement status for uploads when your payments are credited, no manual HAC checks. [Order Tracker →](https://sites.google.com/view/ebics-api-client/order-tracker)
+- **Automation that runs while you sleep** — Scheduled jobs, webhooks, no missed statements. [Scheduler jobs →](https://sites.google.com/view/ebics-api-client/scheduler-jobs)  
+- **Live in minutes** — Docker deployment or Installation scrip, no PHP expertise needed.  
+- **Test without a real bank** — Dummy EBICS server for local development.  
 
 **👉 [Try the DEMO](https://tinyurl.com/safe-ebics) · [Learn more](https://sites.google.com/view/ebics-api-client) · [Watch the video](https://youtu.be/S14Qkt5m0NI)**
 
